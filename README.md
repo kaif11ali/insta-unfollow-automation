@@ -51,3 +51,13 @@ An automated script to unfollow Instagram accounts using Puppeteer and Crawlee.
 ## Note
 
 This script is for educational purposes. Please ensure you comply with Instagram's Terms of Service and use responsibly.
+
+---
+
+## Credits
+
+This project was developed by **Kaif Ali**. All rights and credits go to Kaif Ali for creating and maintaining this repository.
+
+## Support
+
+If you like this project, please consider giving it a ⭐ on GitHub. Your support is greatly appreciated!
