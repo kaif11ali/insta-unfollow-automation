@@ -10,7 +10,6 @@ An automated script to unfollow Instagram accounts using Puppeteer and Crawlee.
    ```
 
 2. **Configure environment variables:**
-   - Copy `.env.example` to `.env`
    - Update the values in `.env` with your Instagram credentials:
    
    ```env
